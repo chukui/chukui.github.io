@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8174c9ae-20ec-4ad6-818b-bf677f1340b3" name="vultr.chukui.github.io" url="http://63.210.148.147">
+        <fileTransfer host="63.210.148.147" port="22" rootFolder="/app/site/chukui.github.io/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
